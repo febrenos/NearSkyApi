@@ -10,6 +10,12 @@ Api de clima
 - https://api.hgbrasil.com/weather/?format=json-cors&key=78g14f59&woeid=455827&sdk_version=js1.0.0
 </details>
 
+#### ABOUT
+<details>
+<summary>Creation</summary>
+  
+</details>
+
 ---
 - getPlaces("placeName")
 - getPlacesInfo(["sp-br", "arg-afr"])
