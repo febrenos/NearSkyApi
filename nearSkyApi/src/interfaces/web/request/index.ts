@@ -1,0 +1,1 @@
+export {WeatherByCitiesVisualCrossingRequestBody, Place, requestBodyDefault} from './weatherByCitiesVisualCrossing'

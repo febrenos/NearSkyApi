@@ -13,7 +13,43 @@ Api de clima
 #### ABOUT
 <details>
 <summary>Creation</summary>
-  
+1. npm init -y
+2. npm install express typescript @types/express
+3. Configuração do TypeScript (tsconfig.json)
+<details>
+<summary>tsconfig.json</summary>
+
+
+```json
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
+```
+
+</details>
+
+<details>
+<summary>Run, compile, and tests</summary>
+
+- npx tsc
+- node dist/server.js
+- npm run build
+- npm run dev
+- npm start
+
+</details>
+
+...
+
 </details>
 
 ---

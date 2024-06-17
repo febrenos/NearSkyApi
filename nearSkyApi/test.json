@@ -1,0 +1,942 @@
+[
+    {
+        "placeName": "São Paulo, SP, Brasil",
+        "data": [
+            {
+                "day": "Today",
+                "date": 1710212400,
+                "dateText": "2024-03-12",
+                "forecastWeather": "partly-cloudy-day",
+                "actualWeather": "partly-cloudy-night",
+                "actualTemperature": 22,
+                "rainChance": 0,
+                "temperatureData": [
+                    19,
+                    18,
+                    18,
+                    22,
+                    27,
+                    29,
+                    23,
+                    20
+                ],
+                "rainChanceData": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "maxTemperature": 28.8,
+                "minTemperature": 17.5
+            },
+            {
+                "day": "Tuesday",
+                "date": 1710298800,
+                "dateText": "2024-03-13",
+                "forecastWeather": "partly-cloudy-day",
+                "actualWeather": "clear-night",
+                "actualTemperature": 24,
+                "rainChance": 0,
+                "temperatureData": [
+                    20,
+                    19,
+                    19,
+                    24,
+                    29,
+                    32,
+                    26,
+                    24
+                ],
+                "rainChanceData": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "maxTemperature": 32.2,
+                "minTemperature": 18.8
+            },
+            {
+                "day": "Wednesday",
+                "date": 1710385200,
+                "dateText": "2024-03-14",
+                "forecastWeather": "clear-day",
+                "actualWeather": "clear-night",
+                "actualTemperature": 26,
+                "rainChance": 0,
+                "temperatureData": [
+                    23,
+                    21,
+                    21,
+                    26,
+                    32,
+                    33,
+                    29,
+                    26
+                ],
+                "rainChanceData": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "maxTemperature": 32.8,
+                "minTemperature": 20.6
+            },
+            {
+                "day": "Thursday",
+                "date": 1710471600,
+                "dateText": "2024-03-15",
+                "forecastWeather": "clear-day",
+                "actualWeather": "partly-cloudy-night",
+                "actualTemperature": 28,
+                "rainChance": 3,
+                "temperatureData": [
+                    24,
+                    23,
+                    22,
+                    27,
+                    32,
+                    33,
+                    31,
+                    28
+                ],
+                "rainChanceData": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    3,
+                    3
+                ],
+                "maxTemperature": 33.4,
+                "minTemperature": 21.9
+            },
+            {
+                "day": "Friday",
+                "date": 1710558000,
+                "dateText": "2024-03-16",
+                "forecastWeather": "partly-cloudy-day",
+                "actualWeather": "cloudy",
+                "actualTemperature": 29,
+                "rainChance": 10,
+                "temperatureData": [
+                    26,
+                    25,
+                    24,
+                    28,
+                    33,
+                    35,
+                    32,
+                    28
+                ],
+                "rainChanceData": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    10,
+                    10
+                ],
+                "maxTemperature": 34.5,
+                "minTemperature": 23.7
+            },
+            {
+                "day": "Saturday",
+                "date": 1710644400,
+                "dateText": "2024-03-17",
+                "forecastWeather": "partly-cloudy-day",
+                "actualWeather": "partly-cloudy-night",
+                "actualTemperature": 29,
+                "rainChance": 29,
+                "temperatureData": [
+                    27,
+                    25,
+                    24,
+                    29,
+                    34,
+                    35,
+                    31,
+                    28
+                ],
+                "rainChanceData": [
+                    3,
+                    3,
+                    10,
+                    10,
+                    7,
+                    7,
+                    29,
+                    29
+                ],
+                "maxTemperature": 34.5,
+                "minTemperature": 24
+            },
+            {
+                "day": "Sunday",
+                "date": 1710730800,
+                "dateText": "2024-03-18",
+                "forecastWeather": "rain",
+                "actualWeather": "rain",
+                "actualTemperature": 28,
+                "rainChance": 58,
+                "temperatureData": [
+                    28,
+                    24,
+                    24,
+                    27,
+                    33,
+                    34,
+                    31,
+                    28
+                ],
+                "rainChanceData": [
+                    29,
+                    29,
+                    16,
+                    16,
+                    32,
+                    32,
+                    58,
+                    58
+                ],
+                "maxTemperature": 33.9,
+                "minTemperature": 23.7
+            },
+            {
+                "day": "Monday",
+                "date": 1710817200,
+                "dateText": "2024-03-19",
+                "forecastWeather": "rain",
+                "actualWeather": "cloudy",
+                "actualTemperature": 28,
+                "rainChance": 65,
+                "temperatureData": [
+                    25,
+                    24,
+                    24,
+                    27,
+                    33,
+                    33,
+                    31,
+                    29
+                ],
+                "rainChanceData": [
+                    45,
+                    45,
+                    23,
+                    23,
+                    36,
+                    36,
+                    65,
+                    65
+                ],
+                "maxTemperature": 33,
+                "minTemperature": 24
+            },
+            {
+                "day": "Tuesday",
+                "date": 1710903600,
+                "dateText": "2024-03-20",
+                "forecastWeather": "rain",
+                "actualWeather": "cloudy",
+                "actualTemperature": 27,
+                "rainChance": 52,
+                "temperatureData": [
+                    26,
+                    25,
+                    24,
+                    28,
+                    30,
+                    32,
+                    30,
+                    26
+                ],
+                "rainChanceData": [
+                    36,
+                    36,
+                    13,
+                    13,
+                    26,
+                    26,
+                    52,
+                    52
+                ],
+                "maxTemperature": 32.2,
+                "minTemperature": 23.5
+            },
+            {
+                "day": "Wednesday",
+                "date": 1710990000,
+                "dateText": "2024-03-21",
+                "forecastWeather": "rain",
+                "actualWeather": "rain",
+                "actualTemperature": 23,
+                "rainChance": 65,
+                "temperatureData": [
+                    22,
+                    22,
+                    22,
+                    23,
+                    27,
+                    25,
+                    22,
+                    21
+                ],
+                "rainChanceData": [
+                    39,
+                    39,
+                    23,
+                    23,
+                    39,
+                    39,
+                    65,
+                    65
+                ],
+                "maxTemperature": 27.1,
+                "minTemperature": 20.9
+            },
+            {
+                "day": "Thursday",
+                "date": 1711076400,
+                "dateText": "2024-03-22",
+                "forecastWeather": "rain",
+                "actualWeather": "cloudy",
+                "actualTemperature": 21,
+                "rainChance": 68,
+                "temperatureData": [
+                    21,
+                    20,
+                    20,
+                    22,
+                    23,
+                    22,
+                    21,
+                    21
+                ],
+                "rainChanceData": [
+                    48,
+                    48,
+                    16,
+                    16,
+                    61,
+                    61,
+                    68,
+                    68
+                ],
+                "maxTemperature": 23.2,
+                "minTemperature": 20
+            },
+            {
+                "day": "Friday",
+                "date": 1711162800,
+                "dateText": "2024-03-23",
+                "forecastWeather": "rain",
+                "actualWeather": "clear-night",
+                "actualTemperature": 24,
+                "rainChance": 65,
+                "temperatureData": [
+                    21,
+                    21,
+                    21,
+                    24,
+                    29,
+                    27,
+                    25,
+                    24
+                ],
+                "rainChanceData": [
+                    29,
+                    29,
+                    13,
+                    13,
+                    39,
+                    39,
+                    65,
+                    65
+                ],
+                "maxTemperature": 28.8,
+                "minTemperature": 20.7
+            },
+            {
+                "day": "Saturday",
+                "date": 1711249200,
+                "dateText": "2024-03-24",
+                "forecastWeather": "rain",
+                "actualWeather": "partly-cloudy-night",
+                "actualTemperature": 24,
+                "rainChance": 48,
+                "temperatureData": [
+                    22,
+                    21,
+                    21,
+                    24,
+                    27,
+                    26,
+                    24,
+                    22
+                ],
+                "rainChanceData": [
+                    23,
+                    23,
+                    7,
+                    7,
+                    36,
+                    36,
+                    48,
+                    48
+                ],
+                "maxTemperature": 27.3,
+                "minTemperature": 21.2
+            },
+            {
+                "day": "Sunday",
+                "date": 1711335600,
+                "dateText": "2024-03-25",
+                "forecastWeather": "rain",
+                "actualWeather": "partly-cloudy-night",
+                "actualTemperature": 23,
+                "rainChance": 74,
+                "temperatureData": [
+                    21,
+                    21,
+                    21,
+                    23,
+                    26,
+                    26,
+                    23,
+                    21
+                ],
+                "rainChanceData": [
+                    23,
+                    23,
+                    16,
+                    16,
+                    52,
+                    52,
+                    74,
+                    74
+                ],
+                "maxTemperature": 25.8,
+                "minTemperature": 20.8
+            },
+            {
+                "day": "Monday",
+                "date": 1711422000,
+                "dateText": "2024-03-26",
+                "forecastWeather": "rain",
+                "actualWeather": "rain",
+                "actualTemperature": 24,
+                "rainChance": 77,
+                "temperatureData": [
+                    21,
+                    21,
+                    20,
+                    23,
+                    30,
+                    28,
+                    26,
+                    22
+                ],
+                "rainChanceData": [
+                    39,
+                    39,
+                    23,
+                    23,
+                    65,
+                    65,
+                    77,
+                    77
+                ],
+                "maxTemperature": 29.5,
+                "minTemperature": 20.4
+            }
+        ]
+    },
+    {
+        "placeName": "TX, United States",
+        "data": [
+            {
+                "day": "Today",
+                "date": 1710219600,
+                "dateText": "2024-03-12",
+                "forecastWeather": "partly-cloudy-day",
+                "actualWeather": "partly-cloudy-night",
+                "actualTemperature": 19,
+                "rainChance": 1,
+                "temperatureData": [
+                    16,
+                    14,
+                    15,
+                    16,
+                    20,
+                    24,
+                    24,
+                    21
+                ],
+                "rainChanceData": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1
+                ],
+                "maxTemperature": 25,
+                "minTemperature": 14
+            },
+            {
+                "day": "Tuesday",
+                "date": 1710306000,
+                "dateText": "2024-03-13",
+                "forecastWeather": "partly-cloudy-day",
+                "actualWeather": "partly-cloudy-night",
+                "actualTemperature": 22,
+                "rainChance": 8,
+                "temperatureData": [
+                    18,
+                    18,
+                    17,
+                    18,
+                    22,
+                    26,
+                    28,
+                    24
+                ],
+                "rainChanceData": [
+                    0,
+                    1,
+                    0,
+                    1,
+                    1,
+                    8,
+                    8,
+                    5
+                ],
+                "maxTemperature": 27.8,
+                "minTemperature": 16.7
+            },
+            {
+                "day": "Wednesday",
+                "date": 1710392400,
+                "dateText": "2024-03-14",
+                "forecastWeather": "rain",
+                "actualWeather": "rain",
+                "actualTemperature": 22,
+                "rainChance": 55,
+                "temperatureData": [
+                    22,
+                    21,
+                    20,
+                    21,
+                    23,
+                    25,
+                    25,
+                    23
+                ],
+                "rainChanceData": [
+                    1,
+                    1,
+                    17,
+                    17,
+                    55,
+                    55,
+                    30,
+                    49
+                ],
+                "maxTemperature": 25.6,
+                "minTemperature": 20
+            },
+            {
+                "day": "Thursday",
+                "date": 1710478800,
+                "dateText": "2024-03-15",
+                "forecastWeather": "rain",
+                "actualWeather": "rain",
+                "actualTemperature": 21,
+                "rainChance": 74,
+                "temperatureData": [
+                    21,
+                    21,
+                    21,
+                    21,
+                    21,
+                    22,
+                    21,
+                    19
+                ],
+                "rainChanceData": [
+                    49,
+                    25,
+                    25,
+                    56,
+                    56,
+                    74,
+                    74,
+                    53
+                ],
+                "maxTemperature": 21.9,
+                "minTemperature": 17.8
+            },
+            {
+                "day": "Friday",
+                "date": 1710565200,
+                "dateText": "2024-03-16",
+                "forecastWeather": "rain",
+                "actualWeather": "partly-cloudy-night",
+                "actualTemperature": 17,
+                "rainChance": 62,
+                "temperatureData": [
+                    17,
+                    17,
+                    16,
+                    16,
+                    17,
+                    18,
+                    19,
+                    17
+                ],
+                "rainChanceData": [
+                    53,
+                    25,
+                    25,
+                    50,
+                    50,
+                    62,
+                    62,
+                    44
+                ],
+                "maxTemperature": 18.7,
+                "minTemperature": 15.8
+            },
+            {
+                "day": "Saturday",
+                "date": 1710651600,
+                "dateText": "2024-03-17",
+                "forecastWeather": "partly-cloudy-day",
+                "actualWeather": "partly-cloudy-night",
+                "actualTemperature": 17,
+                "rainChance": 44,
+                "temperatureData": [
+                    16,
+                    15,
+                    14,
+                    15,
+                    18,
+                    20,
+                    20,
+                    17
+                ],
+                "rainChanceData": [
+                    44,
+                    33,
+                    33,
+                    42,
+                    42,
+                    32,
+                    32,
+                    11
+                ],
+                "maxTemperature": 20.4,
+                "minTemperature": 14.2
+            },
+            {
+                "day": "Sunday",
+                "date": 1710738000,
+                "dateText": "2024-03-18",
+                "forecastWeather": "partly-cloudy-day",
+                "actualWeather": "partly-cloudy-night",
+                "actualTemperature": 14,
+                "rainChance": 13,
+                "temperatureData": [
+                    15,
+                    13,
+                    11,
+                    11,
+                    14,
+                    17,
+                    16,
+                    14
+                ],
+                "rainChanceData": [
+                    11,
+                    9,
+                    9,
+                    13,
+                    13,
+                    10,
+                    10,
+                    3
+                ],
+                "maxTemperature": 17.1,
+                "minTemperature": 10.5
+            },
+            {
+                "day": "Monday",
+                "date": 1710824400,
+                "dateText": "2024-03-19",
+                "forecastWeather": "partly-cloudy-day",
+                "actualWeather": "partly-cloudy-night",
+                "actualTemperature": 13,
+                "rainChance": 7,
+                "temperatureData": [
+                    11,
+                    10,
+                    8,
+                    10,
+                    14,
+                    17,
+                    17,
+                    14
+                ],
+                "rainChanceData": [
+                    3,
+                    3,
+                    3,
+                    6,
+                    6,
+                    7,
+                    7,
+                    4
+                ],
+                "maxTemperature": 17.6,
+                "minTemperature": 7.9
+            },
+            {
+                "day": "Tuesday",
+                "date": 1710910800,
+                "dateText": "2024-03-20",
+                "forecastWeather": "cloudy",
+                "actualWeather": "cloudy",
+                "actualTemperature": 11,
+                "rainChance": 29,
+                "temperatureData": [
+                    12,
+                    11,
+                    11,
+                    10,
+                    11,
+                    11,
+                    11,
+                    11
+                ],
+                "rainChanceData": [
+                    3,
+                    10,
+                    10,
+                    29,
+                    29,
+                    16,
+                    16,
+                    7
+                ],
+                "maxTemperature": 11.5,
+                "minTemperature": 10.3
+            },
+            {
+                "day": "Wednesday",
+                "date": 1710997200,
+                "dateText": "2024-03-21",
+                "forecastWeather": "partly-cloudy-day",
+                "actualWeather": "clear-night",
+                "actualTemperature": 16,
+                "rainChance": 19,
+                "temperatureData": [
+                    11,
+                    11,
+                    11,
+                    13,
+                    18,
+                    23,
+                    22,
+                    19
+                ],
+                "rainChanceData": [
+                    7,
+                    13,
+                    13,
+                    16,
+                    16,
+                    19,
+                    19,
+                    7
+                ],
+                "maxTemperature": 23.9,
+                "minTemperature": 10.5
+            },
+            {
+                "day": "Thursday",
+                "date": 1711083600,
+                "dateText": "2024-03-22",
+                "forecastWeather": "partly-cloudy-day",
+                "actualWeather": "cloudy",
+                "actualTemperature": 18,
+                "rainChance": 26,
+                "temperatureData": [
+                    15,
+                    14,
+                    13,
+                    15,
+                    20,
+                    24,
+                    24,
+                    21
+                ],
+                "rainChanceData": [
+                    7,
+                    3,
+                    3,
+                    7,
+                    7,
+                    26,
+                    26,
+                    16
+                ],
+                "maxTemperature": 24.8,
+                "minTemperature": 12.5
+            },
+            {
+                "day": "Friday",
+                "date": 1711170000,
+                "dateText": "2024-03-23",
+                "forecastWeather": "partly-cloudy-day",
+                "actualWeather": "cloudy",
+                "actualTemperature": 20,
+                "rainChance": 16,
+                "temperatureData": [
+                    18,
+                    17,
+                    15,
+                    18,
+                    23,
+                    26,
+                    24,
+                    21
+                ],
+                "rainChanceData": [
+                    16,
+                    10,
+                    10,
+                    10,
+                    10,
+                    13,
+                    13,
+                    13
+                ],
+                "maxTemperature": 26.7,
+                "minTemperature": 14.9
+            },
+            {
+                "day": "Saturday",
+                "date": 1711256400,
+                "dateText": "2024-03-24",
+                "forecastWeather": "cloudy",
+                "actualWeather": "cloudy",
+                "actualTemperature": 20,
+                "rainChance": 13,
+                "temperatureData": [
+                    19,
+                    18,
+                    17,
+                    19,
+                    22,
+                    23,
+                    22,
+                    21
+                ],
+                "rainChanceData": [
+                    13,
+                    13,
+                    13,
+                    13,
+                    13,
+                    3,
+                    3,
+                    0
+                ],
+                "maxTemperature": 23.5,
+                "minTemperature": 17.2
+            },
+            {
+                "day": "Sunday",
+                "date": 1711342800,
+                "dateText": "2024-03-25",
+                "forecastWeather": "cloudy",
+                "actualWeather": "cloudy",
+                "actualTemperature": 21,
+                "rainChance": 13,
+                "temperatureData": [
+                    20,
+                    19,
+                    19,
+                    20,
+                    21,
+                    24,
+                    24,
+                    22
+                ],
+                "rainChanceData": [
+                    0,
+                    7,
+                    7,
+                    10,
+                    10,
+                    13,
+                    13,
+                    3
+                ],
+                "maxTemperature": 24.4,
+                "minTemperature": 19.1
+            },
+            {
+                "day": "Monday",
+                "date": 1711429200,
+                "dateText": "2024-03-26",
+                "forecastWeather": "cloudy",
+                "actualWeather": "cloudy",
+                "actualTemperature": 14,
+                "rainChance": 29,
+                "temperatureData": [
+                    21,
+                    17,
+                    13,
+                    11,
+                    12,
+                    15,
+                    15,
+                    14
+                ],
+                "rainChanceData": [
+                    3,
+                    13,
+                    13,
+                    13,
+                    13,
+                    29,
+                    29,
+                    13
+                ],
+                "maxTemperature": 20.5,
+                "minTemperature": 10.5
+            }
+        ]
+    }
+]

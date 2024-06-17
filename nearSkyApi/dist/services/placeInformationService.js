@@ -8,13 +8,13 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
-const OpenWeatherMapService = require('./OpenWeatherMapService');
+const WeatherService = require('./weatherService');
 function getDayOfWeek(place) {
     return __awaiter(this, void 0, void 0, function* () {
         // Aqui você pode usar a lógica para obter as coordenadas do lugar e, em seguida, obter o dia da semana
         // Este é um exemplo simplificado, você precisa implementar a lógica completa
-        const coordinates = yield OpenWeatherMapService.obterCoordenadas(place);
-        const timeLocation = yield OpenWeatherMapService.obterDataHoraLocal(coordinates.latitude, coordinates.longitude);
+        const coordinates = yield WeatherService.obterCoordenadas(place);
+        const timeLocation = yield WeatherService.obterDataHoraLocal(coordinates.latitude, coordinates.longitude);
         const dayOfWeek = timeLocation.dayOfWeek; // Supondo que o serviço retorne o dia da semana
         return dayOfWeek;
     });
